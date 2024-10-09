@@ -1,0 +1,15 @@
+C:\faculdade\projetoPOO\homeControl\bin\Debug\net8.0\homeControl.exe
+C:\faculdade\projetoPOO\homeControl\bin\Debug\net8.0\homeControl.deps.json
+C:\faculdade\projetoPOO\homeControl\bin\Debug\net8.0\homeControl.runtimeconfig.json
+C:\faculdade\projetoPOO\homeControl\bin\Debug\net8.0\homeControl.dll
+C:\faculdade\projetoPOO\homeControl\bin\Debug\net8.0\homeControl.pdb
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.AssemblyInfoInputs.cache
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.AssemblyInfo.cs
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.csproj.CoreCompileInputs.cache
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.sourcelink.json
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.dll
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\refint\homeControl.dll
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.pdb
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\homeControl.genruntimeconfig.cache
+C:\faculdade\projetoPOO\homeControl\obj\Debug\net8.0\ref\homeControl.dll
