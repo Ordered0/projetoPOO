@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\faculdade\\projetoPOO\\homeControl\\homeControl.csproj": {}
+    "C:\\Users\\Gabri\\OneDrive\\Área de Trabalho\\POO\\projetoPOO\\homeControl\\homeControl.csproj": {}
   },
   "projects": {
-    "C:\\faculdade\\projetoPOO\\homeControl\\homeControl.csproj": {
+    "C:\\Users\\Gabri\\OneDrive\\Área de Trabalho\\POO\\projetoPOO\\homeControl\\homeControl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\faculdade\\projetoPOO\\homeControl\\homeControl.csproj",
+        "projectUniqueName": "C:\\Users\\Gabri\\OneDrive\\Área de Trabalho\\POO\\projetoPOO\\homeControl\\homeControl.csproj",
         "projectName": "homeControl",
-        "projectPath": "C:\\faculdade\\projetoPOO\\homeControl\\homeControl.csproj",
-        "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\faculdade\\projetoPOO\\homeControl\\obj\\",
+        "projectPath": "C:\\Users\\Gabri\\OneDrive\\Área de Trabalho\\POO\\projetoPOO\\homeControl\\homeControl.csproj",
+        "packagesPath": "C:\\Users\\Gabri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gabri\\OneDrive\\Área de Trabalho\\POO\\projetoPOO\\homeControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

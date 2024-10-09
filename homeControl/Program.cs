@@ -4,3 +4,4 @@ using projetopoo.homecontrol.model;
 Console.WriteLine("digite um nome");
 string teste  = Console.ReadLine();
 Console.WriteLine(teste);
+Console.WriteLine("oi rodrigo");
