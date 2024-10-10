@@ -1,4 +1,4 @@
-namespace projetopoo.homecontrol.model;
+namespace HomeControl.Model;
 public class Produto{
     public string Nome {get; set;}
     public string Quantidade {get; set;}
